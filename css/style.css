@@ -1,0 +1,14 @@
+.caption{
+	background-color: tomato;
+	color:#fff;
+	font-size: 25px;
+	margin: 10px 0;
+	padding-left: 20px;
+}
+.carousel-indicators li{
+	height: 5px;
+	width: 5px;
+	margin: 5px;
+	border-radius: 50%;
+	background-color: black;
+}
